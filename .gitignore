@@ -1,0 +1,9 @@
+__pycache__
+venv
+OOTDiffusion/checkpoints/
+test/
+*.ckpt
+__pycache__/
+.vscode/
+*.pyc
+.uuid
